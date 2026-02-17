@@ -1,8 +1,8 @@
-Human Intelligence
+**Human Intelligence**
 
 Human intelligence refers to the natural mental ability of humans to learn, understand, reason, and solve problems. It enables individuals to adapt to new situations, make decisions, and apply knowledge effectively.
 
-Core Components
+**Core Components**
 
 Reasoning – Logical thinking and drawing conclusions
 
@@ -16,7 +16,7 @@ Emotional Intelligence – Understanding and managing emotions
 
 Adaptability – Adjusting to new environments or situations
 
-Importance
+**Importance**
 
 Human intelligence is essential for:
 
