@@ -4,7 +4,7 @@ Data is raw information (numbers, text, images, audio, or video) that can be sto
 
 **Types**
 
-**Structured Data **– Organized in tables (e.g., Excel, SQL databases).
+**Structured Data–** Organized in tables (e.g., Excel, SQL databases).
 
 **Unstructured Data** – No fixed format (e.g., emails, images, videos, social media).
 
