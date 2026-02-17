@@ -30,6 +30,8 @@ Innovating and advancing technology
 
 Solving complex real-world problems
 
-Application
+**Use Case**
 
 It is used continuously in education, the workplace, social interactions, scientific research, and everyday life.
+
+Reference : [https://docs.google.com/document/d/1xuz7QKTn-QfGLFh0eARA3-E2AV3n2a6AekTpQtCx_V0/edit?tab=t.br4nyzuntuw5](url)
